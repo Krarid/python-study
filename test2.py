@@ -13,3 +13,4 @@ list_tuples: list[tuple] = [('A', 1), ('B', 2), ('C', 3), ('A', 5), ('A', 9), ('
 print(average_by_key(list_tuples))
 
 # Another comment
+# Comment

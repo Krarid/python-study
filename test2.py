@@ -18,3 +18,6 @@ print(average_by_key(list_tuples))
 # Test
 # Another comment
 # TESSSSST
+
+
+print("Hello word!")

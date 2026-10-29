@@ -1,0 +1,1 @@
+print("Merge Fast-Forward")
